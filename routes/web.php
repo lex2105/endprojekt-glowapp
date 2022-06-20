@@ -20,8 +20,8 @@ Route::get('/', function () {
  /**
   * Auth Routes
   */
-  '/login' => [AuthController::class, 'loginForm'],
-  '/login/do' => [AuthController::class, 'loginDo'],
-  '/logout' => [AuthController::class, 'logout'],
-  '/sign-up' => [AuthController::class, 'signupForm'],
-  '/sign-up/do' => [AuthController::class, 'signupDo'],
+//   '/login' => [AuthController::class, 'loginForm'],
+//   '/login/do' => [AuthController::class, 'loginDo'],
+//   '/logout' => [AuthController::class, 'logout'],
+//   '/sign-up' => [AuthController::class, 'signupForm'],
+//   '/sign-up/do' => [AuthController::class, 'signupDo'],
