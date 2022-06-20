@@ -189,7 +189,7 @@
       <p class="text">Start your journey to beautiful & radiant skin</p>
 
       <div class="buttons">
-        <a href="<?php echo Base_URL; ?>/sign-up" class="buttons_bttn_1">Sign up</a>
-        <a href="<?php echo Base_URL; ?>/login" class="buttons_bttn_2">Log in</a>
+        <!-- <a href="/sign-up" class="buttons_bttn_1">Sign up</a>
+        <a href="/login" class="buttons_bttn_2">Log in</a> -->
       </div>
     </div>
